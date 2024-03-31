@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G4oG/EBPsBAr8vBLk9tZRmE9XBz6FCX3AmAIkrPGkaI=",
+  "Source": "MDM-API",
+  "BasePath": "_content/MDM-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MDM-API", "MDM-API\MDM-API.csproj", "{F190828D-4BD3-4657-B3EA-D2154E89A7DF}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "mdm-ui", "MDM-UI\mdm-ui.esproj", "{304241CC-A5B3-432E-9AA5-61F9287E5A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F190828D-4BD3-4657-B3EA-D2154E89A7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F190828D-4BD3-4657-B3EA-D2154E89A7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F190828D-4BD3-4657-B3EA-D2154E89A7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F190828D-4BD3-4657-B3EA-D2154E89A7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304241CC-A5B3-432E-9AA5-61F9287E5A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304241CC-A5B3-432E-9AA5-61F9287E5A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304241CC-A5B3-432E-9AA5-61F9287E5A61}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{304241CC-A5B3-432E-9AA5-61F9287E5A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304241CC-A5B3-432E-9AA5-61F9287E5A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304241CC-A5B3-432E-9AA5-61F9287E5A61}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {974B1CF0-4C1E-4DC6-BF72-F717CDCEF203}
+	EndGlobalSection
+EndGlobal

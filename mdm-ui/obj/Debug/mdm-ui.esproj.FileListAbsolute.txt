@@ -1,0 +1,2 @@
+C:\Users\Mr.Khang\OneDrive\Máy tính\Project\MDM-PROJECT\MDM Project\MDM-UI\obj\Debug\mdm-ui.esproj.SuggestedBindingRedirects.cache
+C:\Users\Mr.Khang\OneDrive\Máy tính\Project\MDM-PROJECT\MDM Project\MDM-UI\obj\Debug\mdm-ui.esproj.CoreCompileInputs.cache
